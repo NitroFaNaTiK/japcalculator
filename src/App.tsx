@@ -6,6 +6,7 @@ const App = () => {
   return (
     <div className="App">
       <CalculatorPage />
+      <p>Déployé avec une pipeline CI/CD 🚀</p>
     </div>
   );
 };
